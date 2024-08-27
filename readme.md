@@ -1,5 +1,11 @@
 
-# Projeto de Desenvolvimento do Dashboard para o Gatito Petshop ➤ :cat: 
+# Dashboard para o Gatito Petshop ➤ :cat: 
+
+
+<p align="center">
+    <img src="https://img.clipart-library.com/2/clip-cat-gif/clip-cat-gif-10.gif" width="45%" height="350" alt="Banner">
+<p/>
+
 
 ## Visão Geral
 Este projeto tem como objetivo desenvolver um dashboard no Power BI para a Helô, proprietária do Gatito Petshop. O dashboard permitirá que ela visualize e analise métricas importantes para entender o desempenho do seu negócio e tomar decisões estratégicas.
@@ -33,18 +39,9 @@ Para atender a essas necessidades, a Helô disponibilizou as seguintes bases de 
 ### Dashboard
 
 
-
-
 https://github.com/user-attachments/assets/5a50ba02-5008-4725-8f81-82ccfa96a6ed
 
 
 
 ## Conclusão
 Com esses dados e análises, a Helô poderá tomar decisões informadas para expandir o Gatito Petshop, abrir novas lojas e otimizar suas operações.
-
-
-<p align="center">
-  <a href="https://github.com/radarsaude/api-ia">
-    <img src="https://img.clipart-library.com/2/clip-cat-gif/clip-cat-gif-10.gif" width="80%" height="350" alt="Banner">
-  </a>
-<p/>
