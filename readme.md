@@ -35,6 +35,10 @@ Para atender a essas necessidades, a Helô disponibilizou as seguintes bases de 
 
 
 
+https://github.com/user-attachments/assets/5a50ba02-5008-4725-8f81-82ccfa96a6ed
+
+
+
 ## Conclusão
 Com esses dados e análises, a Helô poderá tomar decisões informadas para expandir o Gatito Petshop, abrir novas lojas e otimizar suas operações.
 
